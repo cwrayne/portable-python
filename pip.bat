@@ -1,0 +1,1 @@
+%cd%\python.exe get-pip.py
